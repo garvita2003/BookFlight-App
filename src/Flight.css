@@ -1,0 +1,67 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/155439315/photo/passenger-airplane-flying-above-clouds-during-sunset.jpg?s=612x612&w=0&k=20&c=LJWadbs3B-jSGJBVy9s0f8gZMHi2NvWFXa3VJ2lFcL0=');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    padding: 15px;
+    margin: 2vw 20vw 0 20vw;
+    background-image: url('https://media.istockphoto.com/id/155439315/photo/passenger-airplane-flying-above-clouds-during-sunset.jpg?s=612x612&w=0&k=20&c=LJWadbs3B-jSGJBVy9s0f8gZMHi2NvWFXa3VJ2lFcL0=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+
+.forms{
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    color: white;
+    text-align: center;
+    text-shadow: 4px;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration-color: azure;
+}
+
+.info h2{
+    text-decoration: underline;
+}
+
+.forms button{
+    padding: 6px;
+    border: 2px solid black;
+}
+
+.forms button:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+}
+
+.forms input:hover,select:hover{
+    cursor: pointer;
+}
+
+.centre-submit {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    margin-left: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .box {
+    height: 20px;
+    position: relative;
+  }
