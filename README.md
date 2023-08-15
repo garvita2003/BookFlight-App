@@ -1,5 +1,5 @@
 # BookFlight-App
-This site represent the basic use of the form in React.js along with other features as well.
+This site represent the basic use of the form in React.js along with other features like popups, adding styles, adding icon to the tab, etc.
 
 # Technology/Language Used
 1) HTML
