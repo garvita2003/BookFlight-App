@@ -1,5 +1,6 @@
 # BookFlight-App
 This site represent the basic use of the form in React.js along with other features like popups, adding styles, adding icon to the tab, etc.
+First do the Node.Js setup then execute this code.
 
 # Technology/Language Used
 1) HTML
